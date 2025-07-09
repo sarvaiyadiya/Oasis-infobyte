@@ -9,11 +9,15 @@ Each task demonstrates real-world applications of Data Science and Machine Learn
 
 | Task No. | Project Title                            | Description                                                                 | Notebook Link |
 |----------|------------------------------------------|-----------------------------------------------------------------------------|----------------|
-| ✅ 1      | **Retail Sales Analysis**               | Exploratory Data Analysis (EDA) on retail sales to derive insights.         | [View Notebook](./OIBSIB_TASK_1/OMCHOKSI_retail_sales_analysis.ipynb) |
-| ✅ 2      | **Customer Segmentation**               | Clustering customers using K-Means based on behavioral data.                | [View Notebook](./OIBSIB_TASK_2/OMCHOKSI_customer_segmentation.ipynb) |
-| ✅ 3      | **Sentiment Analysis**                  | Analyzing textual reviews to classify sentiments using NLP techniques.      | [View Notebook](./OIBSIB_TASK_3/OMCHOKSI_sentiment_analysis.ipynb) |
-| ✅ 4      | **Email Spam Detection**                | Building a spam classifier using machine learning and NLP.                  | [View Notebook](./OIBSIB_TASK_4/OMCHOKSI_email_spam_detection.ipynb) |
-| ✅ 5      | **Unemployment Analysis**               | Visualizing and analyzing unemployment data across India.                   | [View Notebook](./OIBSIB_TASK_5/OMCHOKSI_unemployment_analysis.ipynb) |
+| ✅ 1      | **Retail Sales Analysis**               | Exploratory Data Analysis (EDA) on retail sales to derive insights.         | [View Notebook](./OIBSIB_TASK_1/JAINAM_KHETANI_retail_sales_analysis.ipynb) |
+| ✅ 2      | **Customer Segmentation**               | Clustering customers using K-Means based on behavioral data.                | [View Notebook](./OIBSIB_TASK_2/JAINAM_KHETANI_CUSTOMER_SENTIMENT_ANALYSIS.ipynb) |
+| ✅ 3      | **Data Cleaning**                       | Cleaned and preprocessed a real-world dataset from Airbnb listings.         | [View Notebook](./OIBSIB_TASK_3/JAINAM_KHETANI_CLEANING_DATASET.ipynb) |
+| ✅ 4      | **Sentiment Analysis**                  | Analyzing Twitter data for positive/negative sentiment using NLP.           | [View Notebook](./OIBSIB_TASK_4/JAINAM_KHETANI_SENTIMENT_ANALYSIS.ipynb) |
+| ✅ 5      | **House Price Prediction**              | Predicting house prices using regression models.                            | [View Notebook](./OIBSIB_TASK_5/house_price_prediction.ipynb) |
+| ✅ 6      | **Wine Quality Prediction**             | Predicting wine quality using classification algorithms.                    | [View Notebook](./OIBSIB_TASK_6/wine_quality_prediction.ipynb) |
+| ✅ 7      | **Fraud Detection**                     | Identifying fraudulent financial transactions with machine learning.        | [View Notebook](./OIBSIB_TASK_7/fraud_detection.ipynb) |
+| ✅ 8      | **Autocomplete/Autocorrect System**     | Implementing a basic text correction and suggestion system using NLP.       | [View Notebook](./OIBSIB_TASK_8/autocomplete_autocorrect.ipynb) |
+
 
 ---
 

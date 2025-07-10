@@ -43,16 +43,10 @@ Each task demonstrates real-world applications of Data Science and Machine Learn
 
 ---
 
-## 📜 Certificate
-
-✅ Successfully completed the internship and received a certificate from Oasis Infobyte. *(Add link or image if available)*
-
----
-
 ## 🙋‍♂️ About Me
 
 **Jainam Khetani** – B.Tech CSE student passionate about Data Science, ML, and building impactful projects.  
-🔗 [LinkedIn](https://linkedin.com/in/jainam-khetani) • 🌐 [Portfolio](#) *(optional)*
+🔗 [LinkedIn](https://linkedin.com/in/jainam-khetani)
 
 ---
 

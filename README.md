@@ -45,8 +45,8 @@ Each task demonstrates real-world applications of Data Science and Machine Learn
 
 ## 🙋‍♂️ About Me
 
-**Jainam Khetani** – B.Tech CSE student passionate about Data Science, ML, and building impactful projects.  
-🔗 [LinkedIn](https://linkedin.com/in/jainam-khetani)
+**Diya Sarvaiya** – B.E CE student passionate about Data Science, ML, and building impactful projects.  
+🔗 [LinkedIn](www.linkedin.com/in/diya-sarvaiya-584001347)
 
 ---
 

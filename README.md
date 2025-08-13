@@ -36,7 +36,7 @@ Each task demonstrates real-world applications of Data Science and Machine Learn
 
 ## 🎯 Highlights
 
-- 🔍 Cleaned and visualized complex datasets
+- 🔍 Cleaned and visualized complex datasets .
 - 🤖 Built machine learning models for clustering and classification
 - 💬 Applied NLP to real-world text data
 - 📈 Generated insights to support business and social decisions
